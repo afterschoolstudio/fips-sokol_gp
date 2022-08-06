@@ -1,0 +1,6 @@
+#
+# fips-sokol_gp
+#
+---
+exports :
+    header-dirs : [ sokol_gp ]

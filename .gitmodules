@@ -1,0 +1,3 @@
+[submodule "sokol_gp"]
+	path = sokol_gp
+	url = https://github.com/edubart/sokol_gp

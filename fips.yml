@@ -3,6 +3,5 @@
 #
 ---
 exports :
-    header-dirs : [ sokol_gp ]  
-    modules:
-            sokol_gp: .
+    header-dirs : 
+      - sokol_gp
